@@ -1,1 +1,1 @@
-# -D-L-HAVUZU
+# kazanmak
